@@ -1,4 +1,4 @@
-<h2 align="left">E aí, Dev! Tranquilo? Eu sou o Edson</h2>
+<h2 style="color:#00FFFF">E aí, Dev! Tranquilo? Eu sou o Edson</h2>
 
 <div align="left">
   <a href="https://www.instagram.com/dev_classico/" target="_blank">
