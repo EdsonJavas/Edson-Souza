@@ -52,4 +52,6 @@ Atuei no desenvolvimento da **startup Me Achou**, onde participei de um projeto 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonJavas&layout=compact&langs_count=5&theme=dracula" height="150" />
 </div>
 
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+<h3 align="center" style="color:#FF0080; text-shadow: 0 0 10px #FF0080, 0 0 20px #FF0080, 0 0 30px #FF0080;">
+  Keep Coding, Keep Growing! 💻✨
+</h3>
