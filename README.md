@@ -22,14 +22,6 @@ Sou o Edson, desenvolvedor **fullstack mobile**, atualmente focado em Flutter. T
 
 Tive a oportunidade de colaborar por 2 meses no desenvolvimento da **startup Me Achou**, onde continuo prestando suporte técnico. Além disso, estou no 3º ano do curso técnico em Desenvolvimento de Sistemas na **ETEC Antônio Devisate**, onde desenvolvo meu TCC usando Flutter. Também faço parte do curso **Dev Menthors** da Universidade Unimar, que tem sido essencial para aprofundar meus conhecimentos em arquitetura, boas práticas e tecnologias atuais.
 
-🔧 Meus conhecimentos incluem:
-- Flutter/Dart
-- HTML, CSS, JavaScript
-- PHP
-- Supabase
-- Banco de Dados (PostgreSQL, SQL Server)
-- Noções de UI/UX com Figma
-
 Meu propósito como dev é claro: **me tornar um profissional completo e ajudar outras pessoas a evoluírem também!**
 
 Aqui no meu GitHub você vai encontrar projetos pessoais, estudos e algumas ideias em desenvolvimento. Fique à vontade para explorar e, quem sabe, se inspirar ✨
