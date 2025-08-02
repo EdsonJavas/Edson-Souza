@@ -16,15 +16,15 @@
 
 ## ⚡ Sobre mim  
 
-🚀 **Transformando código em conhecimento – e conhecimento em oportunidade!**  
+🚀 **Ser desenvolvedor não é só uma escolha — é o meu objetivo de vida.**  
 
-Sou o Edson, desenvolvedor **fullstack mobile**, com foco em Flutter e desenvolvimento multiplataforma. Tenho 2 anos de experiência com programação, sempre buscando aprender na prática através de projetos reais e estudos contínuos.
+Sou o Edson, desenvolvedor **fullstack mobile**, com foco em Flutter e tecnologias web. Estou construindo minha carreira com projetos reais, estudos intensivos e a vontade constante de evoluir como profissional.
 
-Atuei por 2 meses no desenvolvimento da **startup Me Achou**, onde continuo dando suporte. Atualmente, estou no 3º ano da **ETEC Antônio Devisate** (curso técnico de Desenvolvimento de Sistemas), desenvolvendo meu TCC com Flutter. Também sou aluno do curso **Dev Menthors (Unimar)**, focado em arquitetura moderna e práticas avançadas.
+Atuei no desenvolvimento da **startup Me Achou**, onde participei de um projeto ativo por 2 meses e continuo prestando suporte técnico. Atualmente, curso o 3º ano da **ETEC Antônio Devisate** (Desenvolvimento de Sistemas) e estou desenvolvendo meu TCC usando Flutter. Também sou aluno do programa **Dev Menthors (Unimar)**, aprofundando meus conhecimentos em arquitetura de software e boas práticas modernas.
 
-🎯 Meu objetivo? **Me tornar um dev completo e ajudar outros a crescerem junto comigo.**
+🎯 Meu foco é claro: **me desenvolver ao máximo, conquistar experiência real no mercado e crescer como programador.**
 
-> 💬 **"Usar a tecnologia para ajudar os outros é a verdadeira essência da inovação."**
+> 💬 **"Meu código reflete quem eu sou hoje — mas o que quero construir vai muito além disso."**
 
 ---
 
@@ -33,8 +33,6 @@ Atuei por 2 meses no desenvolvimento da **startup Me Achou**, onde continuo dand
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-FF6C00?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" />
