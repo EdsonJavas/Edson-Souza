@@ -105,5 +105,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Keep%20Coding,%20Keep%20Growing!%20💻✨&fontSize=20&fontColor=fff&animation=twinkling" width="100%"/>
 </div>
-```
-
